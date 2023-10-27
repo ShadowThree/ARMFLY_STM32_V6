@@ -1,0 +1,3 @@
+*.bin
+MDK-ARM/Hard_Fault_Handler/*
+*.uvguix.*
